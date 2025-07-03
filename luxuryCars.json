@@ -1,0 +1,382 @@
+[
+  {
+    "make": "Aston Martin",
+    "model": "DB11",
+    "images": {
+      "main": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/aston_martin/db11/main.jpg",
+      "extra": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/aston_martin/db11/extra.jpg"
+    },
+    "year": 2023,
+    "price_per_day": "$650",
+    "seats": 4,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "class": "Luxury",
+    "top_speed": "200 mph",
+    "horsepower": 600,
+    "available": true,
+    "color_options": ["Red", "Black", "Silver"],
+    "description": "A stunning luxury sports car with elegant design and powerful performance."
+  },
+  {
+    "make": "Aston Martin",
+    "model": "DBS Superleggera",
+    "images": {
+      "main": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/aston_martin/dbs_superleggera/main.jpg",
+      "extra": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/aston_martin/dbs_superleggera/extra.jpg"
+    },
+    "year": 2023,
+    "price_per_day": "$750",
+    "seats": 4,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "class": "Luxury",
+    "top_speed": "211 mph",
+    "horsepower": 715,
+    "available": true,
+    "color_options": ["Midnight Blue", "White", "Grey"],
+    "description": "A high-performance grand tourer with breathtaking speed."
+  },
+  {
+    "make": "Aston Martin",
+    "model": "Vantage",
+    "images": {
+      "main": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/aston_martin/vantage/main.jpg",
+      "extra": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/aston_martin/vantage/extra.jpg"
+    },
+    "year": 2023,
+    "price_per_day": "$600",
+    "seats": 2,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "class": "Sports",
+    "top_speed": "195 mph",
+    "horsepower": 503,
+    "available": true,
+    "color_options": ["Red", "Black", "Yellow"],
+    "description": "A compact and nimble sports car with striking looks."
+  },
+  {
+    "make": "Bentley",
+    "model": "Bentayga",
+    "images": {
+      "main": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/bentley/bentayga/main.jpg",
+      "extra": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/bentley/bentayga/extra.jpg"
+    },
+    "year": 2023,
+    "price_per_day": "$750",
+    "seats": 5,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "class": "Luxury SUV",
+    "top_speed": "190 mph",
+    "horsepower": 542,
+    "available": true,
+    "color_options": ["White", "Black", "Blue"],
+    "description": "A luxurious SUV combining performance and comfort."
+  },
+  {
+    "make": "Bentley",
+    "model": "Continental GT",
+    "images": {
+      "main": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/bentley/continental_gt/main.jpg",
+      "extra": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/bentley/continental_gt/extra.jpg"
+    },
+    "year": 2023,
+    "price_per_day": "$850",
+    "seats": 4,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "class": "Luxury",
+    "top_speed": "207 mph",
+    "horsepower": 626,
+    "available": true,
+    "color_options": ["Black", "Silver", "Green"],
+    "description": "A grand tourer offering unrivaled luxury and performance."
+  },
+  {
+    "make": "Bentley",
+    "model": "Flying Spur",
+    "images": {
+      "main": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/bentley/flying_spur/main.jpg",
+      "extra": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/bentley/flying_spur/extra.jpg"
+    },
+    "year": 2023,
+    "price_per_day": "$800",
+    "seats": 5,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "class": "Luxury Sedan",
+    "top_speed": "200 mph",
+    "horsepower": 626,
+    "available": true,
+    "color_options": ["White", "Grey", "Blue"],
+    "description": "A sophisticated sedan with exquisite craftsmanship."
+  },
+  {
+    "make": "Bugatti",
+    "model": "Chiron",
+    "images": {
+      "main": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/bugatti/chiron/main.jpg",
+      "extra": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/bugatti/chiron/extra.jpg"
+    },
+    "year": 2023,
+    "price_per_day": "$3000",
+    "seats": 2,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "class": "Hypercar",
+    "top_speed": "261 mph",
+    "horsepower": 1500,
+    "available": true,
+    "color_options": ["Blue", "Black", "Red"],
+    "description": "An ultra-rare hypercar with mind-blowing performance."
+  },
+  {
+    "make": "Bugatti",
+    "model": "Divo",
+    "images": {
+      "main": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/bugatti/divo/main.jpg",
+      "extra": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/bugatti/divo/extra.jpg"
+    },
+    "year": 2023,
+    "price_per_day": "$3200",
+    "seats": 2,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "class": "Hypercar",
+    "top_speed": "236 mph",
+    "horsepower": 1500,
+    "available": true,
+    "color_options": ["Matte Grey", "Red", "Black"],
+    "description": "A track-focused hypercar with extreme aerodynamics."
+  },
+  {
+    "make": "Bugatti",
+    "model": "Veyron",
+    "images": {
+      "main": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/bugatti/veyron/main.jpg",
+      "extra": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/bugatti/veyron/extra.jpg"
+    },
+    "year": 2023,
+    "price_per_day": "$2800",
+    "seats": 2,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "class": "Hypercar",
+    "top_speed": "267 mph",
+    "horsepower": 1200,
+    "available": true,
+    "color_options": ["Blue", "Yellow", "Black"],
+    "description": "A legendary supercar with immense power and style."
+  },
+  {
+    "make": "Ferrari",
+    "model": "488 Pista",
+    "images": {
+      "main": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/ferrari/488_pista/main.jpg",
+      "extra": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/ferrari/488_pista/extra.jpg"
+    },
+    "year": 2023,
+    "price_per_day": "$1200",
+    "seats": 2,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "class": "Sports",
+    "top_speed": "211 mph",
+    "horsepower": 710,
+    "available": true,
+    "color_options": ["Red", "Yellow", "Black"],
+    "description": "A fierce sports car built for track and road."
+  },
+  {
+    "make": "Ferrari",
+    "model": "F8 Tributo",
+    "images": {
+      "main": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/ferrari/f8_tributo/main.jpg",
+      "extra": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/ferrari/f8_tributo/extra.jpg"
+    },
+    "year": 2023,
+    "price_per_day": "$1150",
+    "seats": 2,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "class": "Sports",
+    "top_speed": "210 mph",
+    "horsepower": 710,
+    "available": true,
+    "color_options": ["Red", "White", "Black"],
+    "description": "A mid-engine sports car with breathtaking design."
+  },
+  {
+    "make": "Ferrari",
+    "model": "SF90 Stradale",
+    "images": {
+      "main": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/ferrari/sf90_stradale/main.jpg",
+      "extra": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/ferrari/sf90_stradale/extra.jpg"
+    },
+    "year": 2023,
+    "price_per_day": "$1400",
+    "seats": 2,
+    "fuel_type": "Hybrid",
+    "transmission": "Automatic",
+    "class": "Hybrid Sports",
+    "top_speed": "211 mph",
+    "horsepower": 986,
+    "available": true,
+    "color_options": ["Red", "Black", "Silver"],
+    "description": "A hybrid supercar with extreme power and efficiency."
+  },
+  {
+    "make": "Lamborghini",
+    "model": "Aventador SVJ",
+    "images": {
+      "main": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/lamborghini/aventador_svj/main.jpg",
+      "extra": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/lamborghini/aventador_svj/extra.jpg"
+    },
+    "year": 2023,
+    "price_per_day": "$1350",
+    "seats": 2,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "class": "Supercar",
+    "top_speed": "217 mph",
+    "horsepower": 759,
+    "available": true,
+    "color_options": ["Orange", "Black", "Green"],
+    "description": "A flagship supercar with aggressive styling and speed."
+  },
+  {
+    "make": "Lamborghini",
+    "model": "Huracn Evo",
+    "images": {
+      "main": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/lamborghini/huracn_evo/main.jpg",
+      "extra": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/lamborghini/huracn_evo/extra.jpg"
+    },
+    "year": 2023,
+    "price_per_day": "$1100",
+    "seats": 2,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "class": "Supercar",
+    "top_speed": "202 mph",
+    "horsepower": 630,
+    "available": true,
+    "color_options": ["Yellow", "Red", "Black"],
+    "description": "An evolution of the classic Huracán with enhanced performance."
+  },
+  {
+    "make": "Lamborghini",
+    "model": "Urus",
+    "images": {
+      "main": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/lamborghini/urus/main.jpg",
+      "extra": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/lamborghini/urus/extra.jpg"
+    },
+    "year": 2023,
+    "price_per_day": "$900",
+    "seats": 5,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "class": "Luxury SUV",
+    "top_speed": "190 mph",
+    "horsepower": 641,
+    "available": true,
+    "color_options": ["White", "Black", "Blue"],
+    "description": "A powerful SUV combining Lamborghini style and performance."
+  },
+  {
+    "make": "McLaren",
+    "model": "720S",
+    "images": {
+      "main": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/mclaren/720s/main.jpg",
+      "extra": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/mclaren/720s/extra.jpg"
+    },
+    "year": 2023,
+    "price_per_day": "$1250",
+    "seats": 2,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "class": "Supercar",
+    "top_speed": "212 mph",
+    "horsepower": 710,
+    "available": true,
+    "color_options": ["Orange", "White", "Black"],
+    "description": "A supercar with aerodynamic design and blistering speed."
+  },
+  {
+    "make": "McLaren",
+    "model": "Artura",
+    "images": {
+      "main": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/mclaren/artura/main.jpg",
+      "extra": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/mclaren/artura/extra.jpg"
+    },
+    "year": 2023,
+    "price_per_day": "$1150",
+    "seats": 2,
+    "fuel_type": "Hybrid",
+    "transmission": "Automatic",
+    "class": "Hybrid Supercar",
+    "top_speed": "205 mph",
+    "horsepower": 671,
+    "available": true,
+    "color_options": ["Red", "White", "Black"],
+    "description": "A hybrid supercar combining efficiency with speed."
+  },
+  {
+    "make": "McLaren",
+    "model": "Senna",
+    "images": {
+      "main": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/mclaren/senna/main.jpg",
+      "extra": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/mclaren/senna/extra.jpg"
+    },
+    "year": 2023,
+    "price_per_day": "$1300",
+    "seats": 2,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "class": "Track Supercar",
+    "top_speed": "208 mph",
+    "horsepower": 800,
+    "available": true,
+    "color_options": ["Yellow", "Black", "Orange"],
+    "description": "A track-focused supercar with aggressive performance."
+  },
+  {
+    "make": "Porsche",
+    "model": "911 Turbo S",
+    "images": {
+      "main": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/porsche/911_turbo_s/main.jpg",
+      "extra": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/porsche/911_turbo_s/extra.jpg"
+    },
+    "year": 2023,
+    "price_per_day": "$850",
+    "seats": 4,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "class": "Sports",
+    "top_speed": "198 mph",
+    "horsepower": 640,
+    "available": true,
+    "color_options": ["White", "Black", "Red"],
+    "description": "An iconic sports car known for its speed and precision."
+  },
+  {
+    "make": "Rolls-Royce",
+    "model": "Phantom",
+    "images": {
+      "main": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/rollsroyce/phantom/main.jpg",
+      "extra": "https://res.cloudinary.com/dhqyjs4tk/image/upload/luxury-cars/rollsroyce/phantom/extra.jpg"
+    },
+    "year": 2023,
+    "price_per_day": "$1500",
+    "seats": 5,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "class": "Ultra Luxury",
+    "top_speed": "155 mph",
+    "horsepower": 563,
+    "available": true,
+    "color_options": ["Black", "White", "Grey"],
+    "description": "The epitome of luxury and craftsmanship."
+  }
+]
